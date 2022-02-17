@@ -13,4 +13,4 @@ npm init @vitejs/app
 
 npm install vue-router@next vuex@next
 
-
+npm install vuex@next
