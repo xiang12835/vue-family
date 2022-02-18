@@ -24,6 +24,8 @@ CSS 预编译器：npm install -D sass
 
 代码规范：npm i eslint -D
 
+获取到代码文件大小的报告：npm install rollup-plugin-visualizer
+
 
 ## 运行
 

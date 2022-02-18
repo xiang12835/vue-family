@@ -5,6 +5,7 @@ import {
   } from 'vue-router'
   import Home from '../pages/home.vue'
   import About from '../pages/about.vue'
+  import Login from '../components/Login.vue'
   
   const routes = [
     {
@@ -16,6 +17,11 @@ import {
       path: '/about',
       name: 'About',
       component: About
+    },
+    { 
+      path: '/login', 
+      component: Login, 
+      hidden: true, 
     }
   ]
   
