@@ -32,3 +32,5 @@ CSS 预编译器：npm install -D sass
 npm install
 
 npm run dev
+
+npm run build
