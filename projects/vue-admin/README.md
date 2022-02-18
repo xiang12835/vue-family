@@ -16,6 +16,15 @@ npm install vuex@next
 
 npm install @vitejs/plugin-vue-jsx -D
 
+组件库：npm install element3 --save
+
+CSS 预编译器：npm install -D sass
+
+网络请求：npm i axios --save
+
+代码规范：npm i eslint -D
+
+
 ## 运行
 
 npm install
