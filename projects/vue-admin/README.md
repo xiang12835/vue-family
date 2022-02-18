@@ -14,6 +14,8 @@ npm install vue-router@next vuex@next
 
 npm install vuex@next
 
+npm install @vitejs/plugin-vue-jsx -D
+
 ## 运行
 
 npm install
